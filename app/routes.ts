@@ -7,4 +7,5 @@ export default [
   route("forgot-password", "routes/forgot-password.tsx"),
   route("auth/callback", "routes/auth.callback.tsx"),
   route("dashboard", "routes/dashboard.tsx"),
+  route("create-story", "routes/create-story.tsx"),
 ] satisfies RouteConfig;
